@@ -2,8 +2,10 @@
 
 A 4-page Power BI dashboard on a car service centre in Chhatrapati Sambhajinagar. The data model links **Customers → Vehicles → Service Orders → Service Details**.
 
-![Overview and Customers](images/car_dashboard_overview.png)
-![Operations](images/car_dashboard_operations.png)
+![Overview and Customers](<img width="1920" height="1080" alt="car_dashboard_operations" src="https://github.com/user-attachments/assets/d1147b7c-f103-40bf-8fd3-0b284425c3a1" />
+)
+![Operations](<img width="1920" height="1080" alt="car_dashboard_overview" src="https://github.com/user-attachments/assets/c37e9a25-c655-4da7-89bb-7e9143bab989" />
+)
 
 <!-- Add your real Power BI screenshots here:
 ![Dashboard Screenshot](images/dashboard_screenshot.png) -->
