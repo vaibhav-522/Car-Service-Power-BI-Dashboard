@@ -43,4 +43,4 @@ Power BI Desktop · Power Query · DAX (YoY, LY, PM measures) · Relational data
 Download `Car_Dashboard.pbix` and open it in **Power BI Desktop** (free).
 
 ## 📬 Connect
-[Your Name](https://www.linkedin.com/in/your-profile)
+Vaibhav Meher-(vaibhav-meher-411aa528b)
